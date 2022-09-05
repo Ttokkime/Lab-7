@@ -1,0 +1,1 @@
+RSA algorithm is a cryptosystem algorithm while DSA is a digital signature algorithm. BOth have different uses in that RSA is used to secure data transmissionw while DSA is used to vertify digital signatures. RSA is faster than DSA in encryption, but it on the other hand is slower than DSA in decryption.
